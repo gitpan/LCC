@@ -1,0 +1,8 @@
+0.01	3 June 2002
+	Released first version to CPAN: still a lot of documentation to be done
+	and the interface with the UNS to be determined, but at least it
+	generates the Update Notification XML.
+
+	25 May 2002
+	Commenced work on the Content Provider Modules for the Local Content
+	Cache system.
